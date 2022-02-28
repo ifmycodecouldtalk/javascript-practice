@@ -1,0 +1,21 @@
+body {
+    background-color: #ededed;
+}
+
+#userDate {
+    color: #dd1c1c;
+}
+
+#totalHappinessCount {
+    color: #d0cc00;
+}
+
+.main-body {
+    text-align: center;
+}
+
+.holidayTable {
+    border: 1px solid;
+    margin-left: auto;
+    margin-right: auto;
+}
